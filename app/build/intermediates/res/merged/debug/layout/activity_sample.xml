@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|top"
+    android:orientation="vertical"
+    tools:context="com.yuyife.yyimagecrop.SampleActivity">
+
+    <Button
+        android:id="@+id/sample_crop_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:onClick="onClick"
+        android:text="@string/label_crop_text" />
+
+
+    <Button
+        android:id="@+id/sample_compress_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:onClick="onClick"
+        android:text="@string/label_compress_text" />
+
+    <Button
+        android:id="@+id/sample_copy_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:onClick="onClick"
+        android:text="@string/label_copy_text" />
+
+    <com.yuyife.yyimagecrop.PinchImageView
+        android:id="@+id/sample_preview_image"
+        android:layout_width="200dip"
+        android:layout_height="200dp"
+        android:layout_marginTop="20dp"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/sample_old_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center|start"
+        android:padding="5dp" />
+
+    <TextView
+        android:id="@+id/sample_new_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center|start"
+        android:padding="5dp" />
+
+
+</LinearLayout>
