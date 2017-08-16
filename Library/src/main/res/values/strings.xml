@@ -1,0 +1,12 @@
+<resources>
+    <string name="yy_app_name">YYImageCrop</string>
+
+    <string name="prompt_no_camera">没有找到摄像头</string>
+    <string name="prompt_handle_ing">处理中..</string>
+
+    <string name="value_photo">相册</string>
+    <string name="value_camera">相机</string>
+
+    <string name="label_crop_text">图片裁剪</string>
+    <string name="label_crop_source">选择来源</string>
+</resources>

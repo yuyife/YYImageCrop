@@ -3,30 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta1\constraint-layout-solver-1.0.0-beta1.jar"
+        jar="D:\app\Project\YYImageCrop\Library\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="ac4965ed6786f8d63f1960a996a6be667064cd28">
-        <dex dex="E:\AndroidLibrary\YYImageCrop\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta1_f935bb8e9e053ef2646a955fd3a47ead3bbb6385.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ZH4\.android\build-cache\99e37456a0204a7c8aff6eef5ca4bb66b823bd2a\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="64c631e55b76db4c5c2fcfa7b4b0b4f344d50787">
-        <dex dex="E:\AndroidLibrary\YYImageCrop\app\build\intermediates\pre-dexed\debug\classes_469622d2cdf1fe4a1e0e58c430aefb75066138e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ZH4\.android\build-cache\1ff0e68d2a283869effc95cc10fc19dd8317c226\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c4ad8321cff5fa475cb39daf387b3cb581aab17f">
-        <dex dex="E:\AndroidLibrary\YYImageCrop\app\build\intermediates\pre-dexed\debug\classes_2b1af7023e28fa5043cf6807a2726c16ad8ac9a7.jar" />
+        sha1="3a48e1afdef0949c265c4d8a8b1e5d094925b6ba">
+        <dex dex="D:\app\Project\YYImageCrop\Sample\build\intermediates\pre-dexed\debug\classes_8728b54c9672f8fd7c5332fea6bdeda6e2c79cf0.jar" />
     </item>
 
 </items>
